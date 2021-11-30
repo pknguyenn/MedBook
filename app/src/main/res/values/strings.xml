@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">pknguyen-MedBook</string>
+    <string name="Medicine_name">Medicine Name</string>
+    <string name="Dose_amount">Dose Amount</string>
+    <string name="Dose_unit">Dose Unit</string>
+    <string name="Daily_freq">Daily Frequency</string>
+    <string name="Date_started">Date Started</string>
+    <string name="Total_doses">Total Number of Doses: 0</string>
+    <string name="Add_icon">Add</string>
+    <string name="Edit_icon">Edit</string>
+    <string name="Delete_icon">Delete</string>
+    <string-array name="unit">
+        <item>mg</item>
+        <item>mcg</item>
+        <item>drop</item>
+    </string-array>
+
+</resources>
